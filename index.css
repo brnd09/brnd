@@ -1,0 +1,18 @@
+img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    background-color: blueviolet;
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(94, 92, 92);
+}
+
+body {
+    text-align: center;
+    background-color: rgb(3, 17, 37);
+}
