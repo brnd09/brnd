@@ -1,18 +1,37 @@
 img {
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
+    display: inline-block;
     width: 300px;
+    margin-right: 20px;
     background-color: blueviolet;
 }
 
+#div1{
+    justify-content: space-between;
+    
+}
+
+#div2{
+    justify-content: space-between;
+}
 
 h1 {
     text-align: center;
     color: rgb(94, 92, 92);
 }
 
+h3{
+    text-align: center;
+    color: rgb(94, 92, 92);
+    background-color: black;
+}
+
 body {
     text-align: center;
-    background-color: rgb(3, 17, 37);
+    background-color: rgb(34, 44, 58);
+}
+
+h2{
+    text-align: center;
+    color: rgb(94, 92, 92);
+    background-color: black;
 }
